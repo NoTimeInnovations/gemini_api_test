@@ -1,0 +1,21 @@
+{
+  "name": "gemini-exp-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@google/genai": "^1.7.0",
+    "dotenv": "^16.5.0",
+    "mime": "^4.0.7"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.4"
+  }
+}
